@@ -123,6 +123,7 @@
     "wrappy": "^1.0.2",
     "yallist": "^5.0.0"
   },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -132,9 +133,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/guifg137-stack/p2/issues"
-  },
-  "homepage": "https://github.com/guifg137-stack/p2#readme"
-}
+  "license": "ISC"}
+
