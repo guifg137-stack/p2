@@ -131,7 +131,8 @@
     "type": "git",
     "url": "git+https://github.com/guifg137-stack/p2.git"
   },
+  "type": "module",
   "keywords": [],
-  "author": "",
+  "author": "guilherme",
   "license": "ISC"}
 
