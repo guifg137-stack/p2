@@ -1,0 +1,25 @@
+{
+  "name": "o2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guifg137-stack/o2.git"
+  },
+  "keywords": [],
+  "author": "guilherme",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/guifg137-stack/o2/issues"
+  },
+  "homepage": "https://github.com/guifg137-stack/o2#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^6.0.1"
+  }
+}
